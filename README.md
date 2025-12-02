@@ -9,6 +9,26 @@ This project investigates the relationship between the dining landscape (specifi
 
 ### 🎯 Research Question
 *Does the prevalence of fast food restaurants significantly impact a country's obesity rate, and does this relationship hold when controlling for economic factors like GDP?*
+## 📂 Repository Structure
+TEeam-SAS/
+├── 📁 notebooks/ ← Jupyter analysis (5 files)
+│ ├── cleaning.ipynb
+│ ├── Obesity.ipynb
+│ ├── european_restaurants (1).ipynb
+│ ├── Correlations.ipynb
+│ └── HYPOTHESIS.ipynb
+├── 📁 data/ ← CSV datasets (4 files)
+│ ├── Obesity dataset.csv
+│ ├── tripadvisor_aggregated_cuisines.csv
+│ └── merged_european_restaurant_obesity.csv
+├── 📁 images/ ← Analysis visualizations (10+ PNGs)
+│ ├── cuisine_correlation_matrix.png
+│ ├── obesity_correlation_heatmap.png
+│ └── rating_vs_obesity.png
+├── README.md
+└── requirements.txt
+
+
 
 ---
 
